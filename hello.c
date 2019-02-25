@@ -10,5 +10,5 @@ int main()
 {
 	printf("hello world\n");
 	printf("hello git\n");
-	return 1;
+	return 2;
 }
