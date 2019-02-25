@@ -8,6 +8,7 @@
 
 int main()
 {
+	printf("hello again\n");
 	printf("hello git\n");
 	return 0;
 }
